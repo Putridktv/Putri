@@ -1,7 +1,7 @@
 ---
 title: Putri Dwi Oktaviani
 role: "Student of STMIK AKAKOM Yogyakarta "
-avatar_filename: screenshot_1.png
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
