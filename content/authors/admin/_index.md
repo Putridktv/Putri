@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: STMIK AKAKOM
+  - name: STMIK AKAKOM Yogyakarta
     url: ""
 superuser: true
 ---
