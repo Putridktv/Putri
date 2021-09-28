@@ -1,6 +1,6 @@
 ---
 title: Putri Dwi Oktaviani
-role: "Student of STMIK AKAKOM Yogyakarta "
+role: ""
 avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: Stanford University
+  - name: STMIK AKAKOM
     url: ""
 superuser: true
 ---
